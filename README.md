@@ -1,6 +1,6 @@
 # Project Name
 
-Description of the project
+Simple anime view project using Jikan API
 
 ## Live Preview
 
