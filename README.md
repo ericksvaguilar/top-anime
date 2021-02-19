@@ -24,3 +24,8 @@ https://
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Acknowledgment
+
+[Axios] (https://github.com/axios/axios)
+[Jikan API] (https://jikan.moe/)
