@@ -1,6 +1,6 @@
 # Top Anime
 
-Anime view ranking project using Jikan API
+Anime ranking project using Jikan API
 
 ## Live Preview
 
