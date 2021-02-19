@@ -4,7 +4,7 @@ Anime ranking project using Jikan API
 
 ## Live Preview
 
-https://
+https://ericksvaguilar.github.io/top-anime/
 
 ## Run the project
 
