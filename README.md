@@ -4,20 +4,13 @@ Anime ranking project using Jikan API
 
 ## Live Preview
 
-https://
+https://ericksvaguilar.github.io/top-anime/
 
-## Run the project
-
-### Requirements
-
-- VSCode
-- Live Server (VSCode Extension)
-
-### Install
+## Install
 
 1. Download or clone repository
 
-### Usage
+## Usage
 
 1. Open `index.html` with Live Server in VSCode
 
@@ -27,5 +20,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgment
 
-[Axios] (https://github.com/axios/axios)
-[Jikan API] (https://jikan.moe/)
+* [Axios](https://github.com/axios/axios)
+* [Jikan API](https://jikan.moe/)
