@@ -33,23 +33,7 @@ h1 {
   text-align: center;
   font-weight: 500;
   color: var(--primary);
-  font-size: 3rem;
-}
-
-.anime-list__title {
-  font-size: 1.1rem;
-  font-weight: 500;
-  margin-bottom: 1rem;
-}
-
-.anime-list__text {
-  color: var(--on-background-medium-em);
-}
-
-.anime-list__score {
-  color: var(--primary);
-  margin-bottom: 1rem;
-  font-size: 1.1rem;
+  font-size: 1.8rem;
 }
 
 /* General Styles */
@@ -76,20 +60,38 @@ h1 {
 
 .anime-list__item {
   width: 225px;
+  height: auto;
   margin: 1rem;
   background-color: var(--depth-02);
   box-shadow: var(--box-shadow);
   border-radius: 5px;
   overflow: hidden;
+
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.anime-list__title {
+  font-size: 1.1rem;
+  font-weight: 500;
+  padding: 1rem;
+}
+
+.anime-list__score {
+  color: var(--primary);
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.anime-list__text {
+  color: var(--on-background-medium-em);
+  padding: 1rem;
+  align-self: flex-end;
 }
 
 .anime-list__img {
-  filter: brightness(0.4) contrast(1);
+  filter: brightness(0.8) contrast(0.9);
 }
 
 .anime-list__description {
-  padding: 1rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
 }
